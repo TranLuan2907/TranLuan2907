@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **luantnkse184059@fpt.edu.vn**
 
-- ⚡ Fun fact **I'm a tech and programming geek, always enjoy learning new things, techs and have a vibrant conversation about stuffs relevant to IT industry.**
+- ⚡ Fun fact **I'm a tech and programming geek, always enjoy learning new things, techs and having a vibrant conversation about stuffs relevant to IT industry.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
