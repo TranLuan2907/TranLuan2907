@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tran Ngoc Kinh Luan</h1>
 <h3 align="center">A passionate full-stack developer from Vietnam</h3>
-<img align="right" alt="Coding" width="400" src=https://giphy.com/gifs/code-coding-seamless-xT9IgzoKnwFNmISR8I>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tranluan2907&label=Profile%20views&color=0e75b6&style=flat" alt="tranluan2907" /> </p>
 
@@ -16,10 +15,11 @@
 
 - 📫 How to reach me **luantnkse184059@fpt.edu.vn**
 
-- ⚡ Fun fact **I'm a tech and programming geek, always enjoy learning new things, techs and having a vibrant conversation about stuffs relevant to IT industry.**
+- ⚡ Fun fact **I'm a tech and programming geek, always enjoy learning new things, techs and have a vibrant conversation about stuffs relevant to IT industry.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/luantnk2907" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luantnk2907" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/channel/uccakxwue81tb5o2lun0yqdg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uccakxwue81tb5o2lun0yqdg" height="30" width="40" /></a>
 </p>
 
