@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Java, Python, C#.NET framework**
 
-- 👨‍💻 All of my projects are available at [https://github.com/TranLuan2907](https://github.com/TranLuan2907)
+- 👨‍💻 All of my projects are available at [https://github.com/TranLuan2907?tab=repositories](https://github.com/TranLuan2907?tab=repositories)
 
 - 💬 Ask me about **Java**
 
